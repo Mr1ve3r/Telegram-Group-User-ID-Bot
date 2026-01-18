@@ -1,6 +1,6 @@
 # Telegram Group/User ID Bot
 
-A simple Pyhton bot for getting ID's
+A simple Pyhton bot for getting ID's;
 On "/start" sends:
 - in private chat: user ID;
 - in a group chat: group ID
