@@ -1,4 +1,4 @@
-# TG Group/User ID Bot
+# Telegram Group/User ID Bot
 
 A simple Pyhton bot for getting ID's
 On "/start" sends:
