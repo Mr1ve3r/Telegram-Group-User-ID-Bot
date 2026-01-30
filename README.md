@@ -8,13 +8,13 @@ On "/start" sends:
 ## Deploy
 1. Install Python (Linux)
    ```bash
-   apt install python
+   apt install python3 python3-venv
    ```
 
 3. Install environment:
    ```bash
    python -m venv .venv
-   .\.venv\Scripts\activate
+   source ./.venv/bin/activate
    pip install -r requirements.txt
    ```
    
